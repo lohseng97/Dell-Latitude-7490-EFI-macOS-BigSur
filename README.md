@@ -46,7 +46,7 @@ Intel Dual-Band Wireless-AC 8265 (standard config)
 ## Unknown (not tested)
 1) Intel TurboBoost (Need to do monitoring)
 2) WiFi (2.4GHz)
-3) Handoff and Airdrop (Likely not working due to AppleItlwn)
+3) Handoff and Airdrop (Likely not working due to AppleItlwm Limitations)
 4) Display Port over USB-C
 5) HDMI (video and audio)
 6) USB-C Data Transfer
