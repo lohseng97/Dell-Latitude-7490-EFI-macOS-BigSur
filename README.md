@@ -1,0 +1,1 @@
+# Dell_Latitude_7490_Hackintosh_EFI_BigSur_IntelWireless
