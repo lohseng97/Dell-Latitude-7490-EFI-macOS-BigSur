@@ -59,6 +59,7 @@ Intel Dual-Band Wireless-AC 8265 (standard config)
 ## Something you may want to apply
 
 *Copied from Swung0x48 directly
+
 Click by trackpad: System Preferences - Trackpad - Tap to click
 
 Drag by trackpad: System Preferences - Accessibility - Mouse & Trackpad - Trackpad Options... - Enable Dragging
