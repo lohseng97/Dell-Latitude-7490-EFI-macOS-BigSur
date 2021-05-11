@@ -35,6 +35,7 @@ Intel Dual-Band Wireless-AC 8265 (standard config)
 13) iGPU Acceleration
 14) Native hotkey support with Fn keys
 15) Dual-booting with Windows (Native dual-boot, not through BootCamp)
+
 *Note: Could not connect to Logitech M590 Bluetooth Mouse, and WiFi/BT Chip might not be able to turn on sometimes, especially if you dual-boot with Windows and fast startup on Windows is enabled.
 
 ## Not working
@@ -56,6 +57,7 @@ Intel Dual-Band Wireless-AC 8265 (standard config)
 10) Touchscreen (Config does not support)
 
 ## Something you may want to apply
+
 *Copied from Swung0x48 directly
 Click by trackpad: System Preferences - Trackpad - Tap to click
 
