@@ -1,4 +1,5 @@
-# Dell_Latitude_7490_Hackintosh_EFI_BigSur_IntelWireless
+# Dell Latitude 7490 Hackintosh EFI 
+# macOS 11.x BigSur with Intel Wireless via AirportItlwm
 
 Currently using the same build, but never test all features yet.
 Any new builds will be pushed to here too if possible.
