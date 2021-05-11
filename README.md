@@ -1,6 +1,7 @@
 # Dell_Latitude_7490_Hackintosh_EFI_BigSur_IntelWireless
 
-### Currently using the same build, but never test all features yet.
+Currently using the same build, but never test all features yet.
+Any new builds will be pushed to here too if possible.
 
 ## Tested macOS version:
 macOS 11.3 / 11.3.1 Big Sur using OpenCore 0.6.8
@@ -9,7 +10,7 @@ macOS 11.3 / 11.3.1 Big Sur using OpenCore 0.6.8
 Intel Core i7-8650U
 24GB DDR4-2400MHz RAM (16GB+8GB)
 Intel UHD 620 Graphics
-Samsung 970 EVO SSD
+Samsung SSD 970EVO 500GB
 Intel Dual-Band Wireless-AC 8265 (standard config)
 
 ## Confirm working
@@ -29,7 +30,6 @@ Intel Dual-Band Wireless-AC 8265 (standard config)
 14) Native hotkey support with Fn keys
 15) Dual-booting with Windows (Native dual-boot, not through BootCamp)
 *Note: Could not connect to Logitech M590 Bluetooth Mouse, and WiFi/BT Chip might not be able to turn on sometimes, especially if you dual-boot with Windows and fast startup on Windows is enabled.
-
 
 ## Not working
 1) Trackpad Keys (unreliable)
@@ -65,4 +65,5 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/xzhih/one-key-hidpi/master
 Swung0x48/Dell-Latitude-7390-7490-Hackintosh-EFI: https://github.com/Swung0x48/Dell-Latitude-7390-7490-Hackintosh-EFI/tree/Catalina-OpenCore
 niiknow/Hackintosh-Latitude-7390: https://github.com/niiknow/Hackintosh-Latitude-7390
 dortania/OpenCore-Install-Guide: https://dortania.github.io/OpenCore-Install-Guide/
+OpenIntelWireless/itlwm: https://github.com/OpenIntelWireless/itlwm/
 xzhih/one-key-hidpi：https://github.com/xzhih/one-key-hidpi
