@@ -53,8 +53,7 @@ Intel Dual-Band Wireless-AC 8265 (standard config)
 6) USB-C Data Transfer
 7) WWAN
 8) SD Card Reader
-9) ThunderBolt (Config does not support)
-10) Touchscreen (Config does not support)
+9) ThunderBolt and Touchscreen (SKU did not include)
 
 
 ## Credit
