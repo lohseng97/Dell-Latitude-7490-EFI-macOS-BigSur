@@ -17,26 +17,26 @@ Intel UHD 620 Graphics
 
 Samsung SSD 970EVO 500GB
 
-Intel Dual-Band Wireless-AC 8265 (standard config)
+Intel Dual-Band Wireless-AC 8265
 
 ## Confirm working
 1) Loudspeaker
-2) 3.5mm headphone jack
-3) Battery Management
-4) Backlight Control (Fn+B & Fn+S)
-5) Ethernet
-6) Sleep and Wake 
-7) Touchpad with Gestures
-8) WiFi (5GHz) and Bluetooth Audio*
-9) USB-C Power Delivery for Charging (Apple 61W)
-10) Barrel Plug for Charging (Dell 90W)
-11) FileVault
-12) CPU SpeedStep
-13) iGPU Acceleration
-14) Native hotkey support with Fn keys
-15) Dual-booting with Windows (Native dual-boot, not through BootCamp)
+2) 3.5mm headphone jack 
+4) Battery Management
+5) Backlight Control (Fn+B & Fn+S)
+6) Ethernet
+7) Sleep and Wake 
+8) Touchpad with Gestures
+9) WiFi (5GHz) and Bluetooth Audio*
+10) USB-C Power Delivery for Charging (Apple 61W)
+11) Barrel Plug for Charging (Dell 90W)
+12) FileVault
+13) CPU SpeedStep
+14) iGPU Acceleration
+15) Native hotkey support with Fn keys
+16) Dual-booting with Windows (Native dual-boot, not through BootCamp / Parallels)
 
-*Note: Could not connect to Logitech M590 Bluetooth Mouse, and WiFi/BT Chip might not be able to turn on sometimes, especially if you dual-boot with Windows and fast startup on Windows is enabled.
+*Note: Could not connect to Logitech M590 Bluetooth Mouse, and WiFi/BT Chip might not be able to turn on sometimes, especially if you dual-boot with Windows and fast startup on Windows is enabled. 3.5mm headphone jack might not work properly after system wakes from sleep, reboot will resolve the issue.
 
 ## Not working
 1) Trackpad Keys (unreliable)
