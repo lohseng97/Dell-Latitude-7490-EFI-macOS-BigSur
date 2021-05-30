@@ -5,7 +5,7 @@ Currently using the same build, but never test all features yet.
 Any new builds will be pushed to here too if possible.
 
 ## Tested macOS version:
-macOS 11.3 / 11.3.1 Big Sur using OpenCore 0.6.8
+macOS 11.3 / 11.3.1 / 11.4 Big Sur using OpenCore 0.6.8
 
 ## System configuration
 
@@ -56,19 +56,6 @@ Intel Dual-Band Wireless-AC 8265 (standard config)
 9) ThunderBolt (Config does not support)
 10) Touchscreen (Config does not support)
 
-## Something you may want to apply
-
-*Copied from Swung0x48 directly
-
-Click by trackpad: System Preferences - Trackpad - Tap to click
-
-Drag by trackpad: System Preferences - Accessibility - Mouse & Trackpad - Trackpad Options... - Enable Dragging
-
-Change trackpad tracking speed System Preferences - Trackpad - Tracking Speed
-
-Enable HiDPI: Run the following command by terminal
-
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/xzhih/one-key-hidpi/master/hidpi.sh)"
 
 ## Credit
 1) Swung0x48/Dell-Latitude-7390-7490-Hackintosh-EFI: https://github.com/Swung0x48/Dell-Latitude-7390-7490-Hackintosh-EFI/tree/Catalina-OpenCore
