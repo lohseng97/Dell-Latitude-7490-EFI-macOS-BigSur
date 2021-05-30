@@ -42,7 +42,7 @@ Intel Dual-Band Wireless-AC 8265
 1) Trackpad Keys (unreliable)
 2) TrackPoint
 3) SideCar
-4) DHCP Support still broken for AppleItlwm (use Itlwm & HeliPort instead if you do not need to use WPA2-Enterprise / 802.11X)
+4) DHCP Support still broken for AppleItlwm in Big Sur (use Itlwm & HeliPort instead if you do not need to use WPA2-Enterprise / 802.11X)
 
 ## Unknown (not tested)
 1) Intel TurboBoost (Need to do monitoring)
