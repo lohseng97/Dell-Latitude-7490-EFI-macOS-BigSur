@@ -56,7 +56,7 @@ Intel Dual-Band Wireless-AC 8265
 9) ThunderBolt and Touchscreen (SKU did not include)
 
 
-## Credit
+## Credits
 1) Swung0x48/Dell-Latitude-7390-7490-Hackintosh-EFI: https://github.com/Swung0x48/Dell-Latitude-7390-7490-Hackintosh-EFI/tree/Catalina-OpenCore
 2) niiknow/Hackintosh-Latitude-7390: https://github.com/niiknow/Hackintosh-Latitude-7390
 3) dortania/OpenCore-Install-Guide: https://dortania.github.io/OpenCore-Install-Guide/
