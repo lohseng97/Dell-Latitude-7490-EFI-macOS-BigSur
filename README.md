@@ -26,7 +26,7 @@ Intel Dual-Band Wireless-AC 8265
 5) Backlight Control (Fn+B & Fn+S)
 6) Ethernet
 7) Touchpad with Gestures
-8) WiFi (5GHz) and Bluetooth Audio*
+8) WiFi (2.4/5GHz) and Bluetooth Audio*
 9) USB-C Power Delivery for Charging (Apple 61W)
 10) Barrel Plug for Charging (Dell 90W)
 11) FileVault
@@ -34,6 +34,7 @@ Intel Dual-Band Wireless-AC 8265
 13) iGPU Acceleration
 14) Native hotkey support with Fn keys
 15) Dual-booting with Windows (Native dual-boot, not through BootCamp / Parallels)
+16) HDMI output
 
 *Note: Could not connect to Logitech M590 Bluetooth Mouse, and WiFi/BT Chip might not be able to turn on sometimes, especially if you dual-boot with Windows and fast startup on Windows is enabled. 3.5mm headphone jack might not work properly after system wakes from sleep, reboot will resolve the issue.
 
@@ -45,15 +46,13 @@ Intel Dual-Band Wireless-AC 8265
 5) Sleep and wake (Kernel panic in macOS 11.5.1; No problems with previous versions of macOS Big Sur)
 
 ## Unknown (not tested)
-1) Intel TurboBoost (Need to do monitoring)
-2) WiFi (2.4GHz)
-3) Handoff and Airdrop (Likely not working due to AppleItlwm Limitations)
-4) Display Port over USB-C
-5) HDMI (video and audio)
-6) USB-C Data Transfer
-7) WWAN
-8) SD Card Reader
-9) ThunderBolt and Touchscreen (SKU did not include)
+1) Intel TurboBoost (Unable to monitor)
+2) Handoff and Airdrop (Likely not working due to AppleItlwm Limitations)
+3) Display Port over USB-C
+4) USB-C Data Transfer
+5) WWAN
+6) SD Card Reader
+7) ThunderBolt and Touchscreen (SKU did not include)
 
 ## Credits
 1) Swung0x48/Dell-Latitude-7390-7490-Hackintosh-EFI: https://github.com/Swung0x48/Dell-Latitude-7390-7490-Hackintosh-EFI/tree/Catalina-OpenCore
