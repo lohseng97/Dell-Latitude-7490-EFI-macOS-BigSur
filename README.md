@@ -5,7 +5,7 @@ Currently using the same build, but never test all features yet.
 Any new builds will be pushed to here too if possible.
 
 ## Tested macOS version:
-macOS 11.3 / 11.3.1 / 11.4 Big Sur using OpenCore 0.6.8
+macOS 11.3 - 11.5.1 Big Sur using OpenCore 0.6.8
 
 ## System configuration
 
@@ -25,16 +25,15 @@ Intel Dual-Band Wireless-AC 8265
 4) Battery Management
 5) Backlight Control (Fn+B & Fn+S)
 6) Ethernet
-7) Sleep and Wake 
-8) Touchpad with Gestures
-9) WiFi (5GHz) and Bluetooth Audio*
-10) USB-C Power Delivery for Charging (Apple 61W)
-11) Barrel Plug for Charging (Dell 90W)
-12) FileVault
-13) CPU SpeedStep
-14) iGPU Acceleration
-15) Native hotkey support with Fn keys
-16) Dual-booting with Windows (Native dual-boot, not through BootCamp / Parallels)
+7) Touchpad with Gestures
+8) WiFi (5GHz) and Bluetooth Audio*
+9) USB-C Power Delivery for Charging (Apple 61W)
+10) Barrel Plug for Charging (Dell 90W)
+11) FileVault
+12) CPU SpeedStep
+13) iGPU Acceleration
+14) Native hotkey support with Fn keys
+15) Dual-booting with Windows (Native dual-boot, not through BootCamp / Parallels)
 
 *Note: Could not connect to Logitech M590 Bluetooth Mouse, and WiFi/BT Chip might not be able to turn on sometimes, especially if you dual-boot with Windows and fast startup on Windows is enabled. 3.5mm headphone jack might not work properly after system wakes from sleep, reboot will resolve the issue.
 
@@ -43,6 +42,7 @@ Intel Dual-Band Wireless-AC 8265
 2) TrackPoint
 3) SideCar
 4) DHCP Support still broken for AppleItlwm in Big Sur (use Itlwm & HeliPort instead if you do not need to use WPA2-Enterprise / 802.11X)
+5) Sleep and wake (Kernel panic in macOS 11.5.1; No problems with previous versions of macOS Big Sur)
 
 ## Unknown (not tested)
 1) Intel TurboBoost (Need to do monitoring)
@@ -54,7 +54,6 @@ Intel Dual-Band Wireless-AC 8265
 7) WWAN
 8) SD Card Reader
 9) ThunderBolt and Touchscreen (SKU did not include)
-
 
 ## Credits
 1) Swung0x48/Dell-Latitude-7390-7490-Hackintosh-EFI: https://github.com/Swung0x48/Dell-Latitude-7390-7490-Hackintosh-EFI/tree/Catalina-OpenCore
