@@ -5,7 +5,7 @@ Currently using the same build, but never test all features yet.
 Any new builds will be pushed to here too if possible.
 
 ## Tested macOS version:
-macOS 11.3 - 11.5.1 Big Sur using OpenCore 0.6.8
+macOS 11.3 - 11.6 Big Sur using OpenCore 0.6.8
 
 ## System configuration
 
@@ -27,7 +27,7 @@ Intel Dual-Band Wireless-AC 8265
 6) Ethernet
 7) Touchpad with Gestures
 8) WiFi (2.4/5GHz) and Bluetooth Audio*
-9) USB-C Power Delivery for Charging (Apple 61W)
+9) USB-C Power Delivery for Charging (Apple 61W, Ugreen 65W)
 10) Barrel Plug for Charging (Dell 90W)
 11) FileVault
 12) CPU SpeedStep
