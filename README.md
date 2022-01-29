@@ -20,17 +20,17 @@ macOS 11.3 - 11.6 Big Sur using OpenCore 0.6.8
 5) Backlight Control (Fn+B & Fn+S)
 6) Ethernet
 7) Touchpad with Gestures
-8) WiFi (2.4/5GHz) and Bluetooth Audio*
-9) USB-C Power Delivery for Charging (Apple 61W, Ugreen 65W)
-10) Barrel Plug for Charging (Dell 90W)
-11) FileVault
-12) CPU SpeedStep
-13) iGPU Acceleration
-14) Native hotkey support with Fn keys
-15) Dual-booting with Windows (Native dual-boot, not through BootCamp / Parallels)
-16) HDMI output
-17) DHCP Support for AppleItlwm _(Update: Updated kexts to v2.1.0)_
-18) SideCar using USB
+8) WiFi (2.4/5GHz) via AppleItlwm) _(Update: Updated kexts to v2.1.0)_
+9) Bluetooth Audio*
+10) USB-C Power Delivery for Charging (Apple 61W, Ugreen 65W)
+11) Barrel Plug for Charging (Dell 90W)
+12) FileVault
+13) CPU SpeedStep
+14) iGPU Acceleration
+15) Native hotkey support with Fn keys
+16) Dual-booting with Windows (Native dual-boot, not through BootCamp / Parallels)
+17) HDMI output
+18) SideCar using USB-A to lightning _(tested on iPad 7th/9th generation, WiFi+Cellular)_
 
 ^_3.5mm headphone jack might not work properly after system wakes from sleep, reboot will resolve the issue._
 
