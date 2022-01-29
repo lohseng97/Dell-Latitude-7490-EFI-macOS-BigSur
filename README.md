@@ -1,8 +1,7 @@
 # Dell Latitude 7490 Hackintosh EFI
 # macOS 11.x BigSur with Intel Wireless via AirportItlwm
 
-Currently using the same build, but never test all features yet.
-Any new builds will be pushed to here too if possible.
+As of Jan 2022: Using the macOS 11.6, but will be updating to macOS 12.2 soon.
 
 ## Tested macOS version:
 macOS 11.3 - 11.6 Big Sur using OpenCore 0.6.8
@@ -12,12 +11,11 @@ macOS 11.3 - 11.6 Big Sur using OpenCore 0.6.8
 - 24GB DDR4-2400MHz RAM (16GB+8GB)
 - Intel UHD 620 Graphics
 - Samsung SSD 970 EVO 500GB
-
-Intel Dual-Band Wireless-AC 8265
+- Intel Dual-Band Wireless-AC 8265
 
 ## Confirm working
 1) Loudspeaker
-2) 3.5mm headphone jack 
+2) 3.5mm headphone jack^
 4) Battery Management
 5) Backlight Control (Fn+B & Fn+S)
 6) Ethernet
@@ -34,7 +32,8 @@ Intel Dual-Band Wireless-AC 8265
 17) DHCP Support for AppleItlwm (to update to v2.1.0)
 18) SideCar using USB
 
-*Note: Could not connect to Logitech M590 Bluetooth Mouse, and WiFi/BT Chip might not be able to turn on sometimes, especially if you dual-boot with Windows and fast startup on Windows is enabled. 3.5mm headphone jack might not work properly after system wakes from sleep, reboot will resolve the issue.
+^_3.5mm headphone jack might not work properly after system wakes from sleep, reboot will resolve the issue._
+*Could not connect to Logitech M590 Bluetooth Mouse, and WiFi/BT Chip might not be able to turn on sometimes, especially if you dual-boot with Windows and fast startup on Windows is enabled. 
 
 ## Not working
 1) TrackPoint
