@@ -34,7 +34,7 @@ macOS 11.3 - 11.6 Big Sur using OpenCore 0.6.8
 
 ^_3.5mm headphone jack might not work properly after system wakes from sleep, reboot will resolve the issue._
 
-*_Could not connect to Logitech M590 Bluetooth Mouse, and WiFi/BT Chip might not be able to turn on sometimes, especially if you dual-boot with Windows and fast startup on Windows is enabled. _
+*_Could not connect to Logitech M590 Bluetooth Mouse, and WiFi/BT Chip might not be able to turn on sometimes, especially if you dual-boot with Windows and fast startup on Windows is enabled._
 
 ## Not working
 1) TrackPoint
