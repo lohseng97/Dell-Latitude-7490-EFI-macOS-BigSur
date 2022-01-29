@@ -8,14 +8,10 @@ Any new builds will be pushed to here too if possible.
 macOS 11.3 - 11.6 Big Sur using OpenCore 0.6.8
 
 ## System configuration
-
-Intel Core i7-8650U
-
-24GB DDR4-2400MHz RAM (16GB+8GB)
-
-Intel UHD 620 Graphics
-
-Samsung SSD 970EVO 500GB
+- Intel Core i7-8650U
+- 24GB DDR4-2400MHz RAM (16GB+8GB)
+- Intel UHD 620 Graphics
+- Samsung SSD 970 EVO 500GB
 
 Intel Dual-Band Wireless-AC 8265
 
