@@ -29,7 +29,7 @@ macOS 11.3 - 11.6 Big Sur using OpenCore 0.6.8
 14) Native hotkey support with Fn keys
 15) Dual-booting with Windows (Native dual-boot, not through BootCamp / Parallels)
 16) HDMI output
-17) DHCP Support for AppleItlwm (to update to v2.1.0)
+17) DHCP Support for AppleItlwm _(Update: Updated kexts to v2.1.0)_
 18) SideCar using USB
 
 ^_3.5mm headphone jack might not work properly after system wakes from sleep, reboot will resolve the issue._
