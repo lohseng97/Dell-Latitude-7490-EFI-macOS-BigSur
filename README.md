@@ -1,7 +1,7 @@
 # Dell Latitude 7490 Hackintosh EFI
 # macOS 11.x BigSur with Intel Wireless via AirportItlwm
 
-As of Jan 2022: Using the macOS 11.6, but will be updating to macOS 12.2 soon.
+Note: My laptop has stopped working in May 2022 and no more updates will be available.
 
 ## Tested macOS version:
 macOS 11.3 - 11.6 Big Sur using OpenCore 0.6.8
