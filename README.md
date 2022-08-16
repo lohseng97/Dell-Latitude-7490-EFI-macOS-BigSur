@@ -39,6 +39,9 @@ macOS 11.3 - 11.6 Big Sur using OpenCore 0.6.8
 ## Not working
 1) TrackPoint
 
+## Potential issue
+1) Sleep mode not activating - Causing kernel panics
+
 ## Unknown (not tested)
 1) Intel TurboBoost (Unable to monitor)
 2) Handoff and Airdrop (Likely not working due to AppleItlwm Limitations)
