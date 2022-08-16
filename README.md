@@ -39,8 +39,9 @@ macOS 11.3 - 11.6 Big Sur using OpenCore 0.6.8
 ## Not working
 1) TrackPoint
 
-## Potential issue
+## Potential issues
 1) Sleep mode not activating - Causing kernel panics
+2) Screen tearing when full screen video on Chrome
 
 ## Unknown (not tested)
 1) Intel TurboBoost (Unable to monitor)
